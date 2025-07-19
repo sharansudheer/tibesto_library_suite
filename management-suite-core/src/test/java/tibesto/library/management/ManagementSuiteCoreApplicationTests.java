@@ -1,10 +1,10 @@
-package library_mgm.tibesto.core;
+package tibesto.library.management;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class CoreApplicationTests {
+class ManagementSuiteCoreApplicationTests {
 
 	@Test
 	void contextLoads() {
